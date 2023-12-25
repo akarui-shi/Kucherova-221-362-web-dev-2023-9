@@ -1,0 +1,93 @@
+/* Стили для заголовка */
+header h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Стили для информации о студенте */
+  header p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Стили для блока вывода значений функции */
+  main {
+    margin-top: 20px;
+  }
+  
+  /* Стили для заголовка вывода значений функции */
+  main h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  /* Стили для простой верстки текстом */
+  main p {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Стили для маркированного списка */
+  main ul {
+    list-style-type: disc;
+    font-size: 16px;
+    color: #333;
+    padding-left: 20px;
+  }
+  
+  /* Стили для элементов маркированного списка */
+  main li {
+    margin-bottom: 5px;
+  }
+  
+  /* Стили для нумерованного списка */
+  main ol {
+    list-style-type: decimal;
+    font-size: 16px;
+    color: #333;
+    padding-left: 20px;
+  }
+  
+  /* Стили для элементов нумерованного списка */
+  main li {
+    margin-bottom: 5px;
+  }
+  
+  /* Стили для табличной верстки */
+  main table {
+    border-collapse: collapse;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Стили для заголовка таблицы */
+  main th {
+    font-weight: bold;
+    padding: 8px;
+    border: 1px solid #333;
+  }
+  
+  /* Стили для ячеек таблицы */
+  main td {
+    padding: 8px;
+    border: 1px solid #333;
+  }
+  
+  /* Стили для блочной верстки */
+  main div {
+    display: inline-block;
+    border: 2px solid red;
+    margin-right: 8px;
+    padding: 5px;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Стили для подвала */
+  footer p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 20px;
+  }
